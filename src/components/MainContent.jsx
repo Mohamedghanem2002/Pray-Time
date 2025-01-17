@@ -259,27 +259,27 @@ export default function MainContent() {
         <Prayer
           name="الفجر"
           time={converTimeFormat(timings.Fajr)}
-          image="/src/assets/360_F_243316414_0TS5HktGmnhnMUpvWrwSAneOB8cmIip8.jpg"
+          image="/Pray-Time/assets/360_F_243316414_0TS5HktGmnhnMUpvWrwSAneOB8cmIip8.jpg"
         />
         <Prayer
           name={"الضهر"}
           time={converTimeFormat(timings.Dhuhr)}
-          image="/src/assets/images (1).jpg"
+          image="/Pray-Time/assets/images (1).jpg"
         />
         <Prayer
           name="العصر"
           time={converTimeFormat(timings.Asr)}
-          image="/src/assets/images (2).jpg"
+          image="/Pray-Time/assets/images (2).jpg"
         />
         <Prayer
           name="المغرب"
           time={converTimeFormat(timings.Maghrib)}
-          image="/src/assets/images (3).jpg"
+          image="/Pray-Time/assets/images (3).jpg"
         />
         <Prayer
           name="العشاء"
           time={converTimeFormat(timings.Isha)}
-          image="/src/assets/images.jpg"
+          image="/Pray-Time/assets/images.jpg"
         />
       </Stack>
 
