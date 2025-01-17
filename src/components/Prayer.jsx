@@ -16,6 +16,7 @@ export default function MediaCard({ name, time, image }) {
           {time}
         </Typography>
       </CardContent>
-    </Card>
+    </Card>//k
+    
   );
 }
