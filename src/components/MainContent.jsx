@@ -281,11 +281,7 @@ export default function MainContent() {
           time={converTimeFormat(timings.Isha)}
           image="/Pray-Time/assets/images.jpg"
         />
-        <Prayer
-          name="العشاء"
-          time={converTimeFormat(timings.Isha)}
-          image="/Pray-Time/assets/images.jpg"
-        />
+       
       </Stack>
 
       {/* PRAYERS CARDS */}
